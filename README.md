@@ -1,5 +1,8 @@
 # 📊 Meta Ad Performance Dashboard
 
+![Dashboard Preview](https://github.com/mohitjain0810/Meta-Ad-Performance-Dashboard/blob/main/Screenshot%202025-11-28%20143508.png?raw=true)
+
+
 This repository contains the **Power BI dashboard (`Meta Ad Performance Dashboard.pbix`)** used to analyze the effectiveness and key performance indicators (KPIs) of Meta (Facebook/Instagram) advertising campaigns.
 
 The goal of this dashboard is to provide a comprehensive, real-time view of ad performance — from initial impressions to final purchases — enabling data-driven optimization.
